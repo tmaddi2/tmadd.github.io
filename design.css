@@ -1,5 +1,6 @@
 .bottomborder{
   width = 100%;
+  height = 10px;
   border-style = soild;
   border-color = #85C1E9;
 }
